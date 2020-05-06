@@ -34,8 +34,19 @@ Prove of concept related to Node.js project, TypeScript, with some Services, SOL
 <li><a href="https://github.com/facebook/prop-types">PropTypes</a></li>
 -->
 
+ts-node-dev, Prettier
+EditorConfig
+
+<li><a href="https://code.visualstudio.com/" rel="nofollow">VS Code</a> with 
+  <a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig" rel="nofollow">EditorConfig</a>, 
+  <a href="https://marketplace.visualstudio.com/items?itemName=remimarsal.prettier-now" rel="nofollow">Prettier</a> 
+  and
+  <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint" rel="nofollow">ESLint</a>
+</li>
+
 <li><a href="https://code.visualstudio.com/" rel="nofollow">VS Code</a> with <a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig" rel="nofollow">EditorConfig</a> and <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint" rel="nofollow">ESLint</a>
 </li>
+
 
 </ul>
 
