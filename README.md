@@ -44,10 +44,6 @@ EditorConfig
   <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint" rel="nofollow">ESLint</a>
 </li>
 
-<li><a href="https://code.visualstudio.com/" rel="nofollow">VS Code</a> with <a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig" rel="nofollow">EditorConfig</a> and <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint" rel="nofollow">ESLint</a>
-</li>
-
-
 </ul>
 
 <h2>
