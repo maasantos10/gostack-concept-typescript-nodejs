@@ -32,9 +32,11 @@ Prove of concept related to Node.js project, TypeScript, with some Services, SOL
 <li><a href="https://expo.github.io/vector-icons/" rel="nofollow">@expo/vector-icons</a></li>
 <li><a href="https://docs.expo.io/versions/latest/sdk/linear-gradient/" rel="nofollow">expo-linear-gradient</a></li>
 <li><a href="https://github.com/facebook/prop-types">PropTypes</a></li>
-
 -->
-<li><a href="https://code.visualstudio.com/" rel="nofollow">VS Code</a> with <a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig" rel="nofollow">EditorConfig</a> and <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint" rel="nofollow">ESLint</a></li>
+
+<li><a href="https://code.visualstudio.com/" rel="nofollow">VS Code</a> with <a href="https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig" rel="nofollow">EditorConfig</a> and <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint" rel="nofollow">ESLint</a>
+</li>
+
 </ul>
 
 <h2>
