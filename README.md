@@ -63,7 +63,7 @@ EditorConfig
 
 <div class="highlight highlight-source-shell">
 <pre><span class="pl-c"><span class="pl-c">#</span> Clone this repository</span>
-$ git clone https://github.com/maasantos10/goStack-challenge-concept-nodejs designCode
+$ git clone https://github.com/maasantos10/gostack-concept-typescript-nodejs designCode
 
 <span class="pl-c"><span class="pl-c">#</span> Go into the repository</span>
 $ <span class="pl-c1">cd</span> designCode
