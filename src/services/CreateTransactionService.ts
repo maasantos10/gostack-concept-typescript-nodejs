@@ -27,6 +27,10 @@ class CreateTransactionService {
   public execute({ title, value, type }: RequestDTO): Transaction {
     const { total } = this.transactionsRepository.getBalance();
 
+    if (!['income', 'outcome'].includes(type)) {
+      throw new Error('[Node.JS/TypeScript Challenge] Invalid transaction');
+    }
+
     if (type === 'outcome' && total < value) {
       throw new Error('[Node.JS/TypeScript Challenge] insufficient balance!');
     }
